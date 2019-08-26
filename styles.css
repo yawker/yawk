@@ -1,0 +1,434 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 800px;
+	 height: 1331px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #bg 
+{ 
+	 left: -100px; 
+	 top: 15px; 
+	 position: absolute; 
+	 width: 1003px;
+	 height: 1643px;
+	 z-index:1;
+} 
+
+ #white 
+{ 
+	 left: 98px; 
+	 top: 229px; 
+	 position: absolute; 
+	 width: 603px;
+	 height: 1077px;
+	 z-index:2;
+} 
+
+
+ #Rectangle6 
+{ 
+	 left: 645px; 
+	 top: 1412px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 27px;
+	 z-index:4;
+} 
+
+
+
+
+
+ #Rectangle9 
+{ 
+	 left: 643px; 
+	 top: 3228px; 
+	 position: absolute; 
+	 width: 28px;
+	 height: 26px;
+	 z-index:10;
+} 
+
+ #f 
+{ 
+	 left: 653px; 
+	 top: 1232px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 17px;
+	 z-index:11;
+} 
+
+ #km13Routedel39Ourika 
+{ 
+	 left: 129px; 
+	 top: 1226px; 
+	 position: absolute; 
+	 width: 251px;
+	 height: 47px;
+	 z-index:12;
+} 
+
+ #PalmGolfOurikaMarrak 
+{ 
+	 left: 130px; 
+	 top: 1200px; 
+	 position: absolute; 
+	 width: 294px;
+	 height: 14px;
+	 z-index:13;
+} 
+
+ #div 
+{ 
+	 left: 129px; 
+	 top: 1185px; 
+	 position: absolute; 
+	 width: 542px;
+	 height: 6px;
+	 z-index:14;
+} 
+
+
+
+ #Layer6 
+{ 
+	 left: 109px; 
+	 top: 1017px; 
+	 position: absolute; 
+	 width: 578px;
+	 height: 23px;
+	 z-index:16;
+} 
+
+
+
+
+ #Layer28copy3 
+{ 
+	 left: 106px; 
+	 top: 866px; 
+	 position: absolute; 
+	 width: 581px;
+	 height: 23px;
+	 z-index:19;
+} 
+
+ #RESTAURANTBAR 
+{ 
+	 left: 410px; 
+	 top: 873px; 
+	 position: absolute; 
+	 width: 130px;
+	 height: 10px;
+	 z-index:20;
+} 
+
+
+
+ #PROSHOP 
+{ 
+	 left: 410px; 
+	 top: 1024px; 
+	 position: absolute; 
+	 width: 71px;
+	 height: 10px;
+	 z-index:22;
+} 
+
+
+
+ #EVNEMENTSMARRAKECH 
+{ 
+	 left: 115px; 
+	 top: 869px; 
+	 position: absolute; 
+	 width: 191px;
+	 height: 14px;
+	 z-index:24;
+} 
+
+
+
+ #Layer7 
+{ 
+	 left: 105px; 
+	 top: 678px; 
+	 position: absolute; 
+	 width: 582px;
+	 height: 23px;
+	 z-index:26;
+} 
+
+ #CARACTRISTIQUES 
+{ 
+	 left: 112px; 
+	 top: 682px; 
+	 position: absolute; 
+	 width: 131px;
+	 height: 15px;
+	 z-index:27;
+} 
+
+ #ATTRACTIONSPROXIMIT 
+{ 
+	 left: 410px; 
+	 top: 681px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 14px;
+	 z-index:28;
+} 
+
+
+
+ #Rectangle2copy 
+{ 
+	 left: 99px; 
+	 top: 228px; 
+	 position: absolute; 
+	 width: 602px;
+	 height: 404px;
+	 z-index:30;
+} 
+
+ #Layer4 
+{ 
+	 left: 99px; 
+	 top: 230px; 
+	 position: absolute; 
+	 width: 601px;
+	 height: 434px;
+	 z-index:31;
+} 
+
+
+
+ #Rectangle4 
+{ 
+	 left: 191px; 
+	 top: 88px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 5px;
+	 z-index:33;
+} 
+
+ #Rectangle4copy 
+{ 
+	 left: 495px; 
+	 top: 88px; 
+	 position: absolute; 
+	 width: 106px;
+	 height: 5px;
+	 z-index:34;
+} 
+
+ #Layer3 
+{ 
+	 left: 193px; 
+	 top: 90px; 
+	 position: absolute; 
+	 width: 407px;
+	 height: 2px;
+	 z-index:35;
+} 
+
+ #Layer2 
+{ 
+	 left: 310px; 
+	 top: 56px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 57px;
+	 z-index:36;
+} 
+
+#EqPro {
+    left: 109px;
+    top: 1017px;
+    position: absolute;
+    width: 578px;
+    height: 23px;
+    z-index: 14;
+}
+
+#EveRes {
+    left: 106px;
+    top: 866px;
+    position: absolute;
+    width: 581px;
+    height: 23px;
+    z-index: 15;
+}
+
+#CaraAtt {
+    left: 105px;
+    top: 678px;
+    position: absolute;
+    width: 582px;
+    height: 23px;
+    z-index: 16;
+}
+
+ #CARACTRISTIQUES 
+{ 
+	 left: 112px; 
+	 top: 651px; 
+	 position: absolute; 
+	 width: 131px;
+	 height: 15px;
+	 z-index:41;
+} 
+
+ #ATTRACTIONSPROXIMIT 
+{ 
+	 left: 410px; 
+	 top: 650px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 14px;
+	 z-index:42;
+} 
+
+ #WakyMarrakechcablesk 
+{ 
+	 left: 415px; 
+	 top: 700px; 
+	 position: absolute; 
+	 width: 189px;
+	 height: 97px;
+	 z-index:43;
+} 
+ #RESTAURANTBAR 
+{ 
+	 left: 410px; 
+	 top: 842px; 
+	 position: absolute; 
+	 width: 130px;
+	 height: 10px;
+	 z-index:34;
+} 
+
+ #Unerestaurationdetyp 
+{ 
+	 left: 415px; 
+	 top: 910px; 
+	 position: absolute; 
+	 width: 255px;
+	 height: 83px;
+	 z-index:35;
+} 
+
+ #PROSHOP 
+{ 
+	 left: 410px; 
+	 top: 993px; 
+	 position: absolute; 
+	 width: 71px;
+	 height: 10px;
+	 z-index:36;
+} 
+
+ #LeProShopduPalmGolfM 
+{ 
+	 left: 415px; 
+	 top: 1050px; 
+	 position: absolute; 
+	 width: 254px;
+	 height: 115px;
+	 z-index:37;
+} 
+
+ #EVNEMENTSMARRAKECH 
+{ 
+	 left: 115px; 
+	 top: 838px; 
+	 position: absolute; 
+	 width: 191px;
+	 height: 14px;
+	 z-index:38;
+} 
+
+ #Unagendaricheenvneme 
+{ 
+	 left: 129px; 
+	 top: 910px; 
+	 position: absolute; 
+	 width: 236px;
+	 height: 100px;
+	 z-index:19;
+} 
+
+ #EQUIPEMENTSERVICESDI 
+{ 
+	 left: 116px; 
+	 top: 994px; 
+	 position: absolute; 
+	 width: 252px;
+	 height: 11px;
+	 z-index:31;
+} 
+
+ #VoiturettesquipesdeG 
+{ 
+	 left: 130px; 
+	 top: 1040px; 
+	 position: absolute; 
+	 width: 280px;
+	 height: 97px;
+	 z-index:29;
+} 
+
+
+#Parcoursdeclasseinte {
+    left: 102px;
+    top: 136px;
+    position: absolute;
+    width: 596px;
+    height: 69px;
+    z-index: 17;
+}
+
+ #ConuparStephaneTalbo 
+{ 
+	 left: 130px; 
+	 top: 720px; 
+	 position: absolute; 
+	 width: 225px;
+	 height: 131px;
+	 z-index:29;
+} 
+
+
+ #km13Routedel39Ourika 
+{ 
+	 left: 129px; 
+	 top: 1226px; 
+	 position: absolute; 
+	 width: 251px;
+	 height: 47px;
+	 z-index:12;
+} 
+
+ #PalmGolfOurikaMarrak 
+{ 
+	 left: 130px; 
+	 top: 1200px; 
+	 position: absolute; 
+	 width: 294px;
+	 height: 14px;
+	 z-index:13;
+} 
